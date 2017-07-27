@@ -1,5 +1,7 @@
 #contenedor {
+	
 }
+
 #header {
     float: center;
     width: 100%;
@@ -28,7 +30,6 @@
 }
 
 #Principal #secundario {
-	background: white;
 float: left;
 width: 10%;
 height: 100%;
