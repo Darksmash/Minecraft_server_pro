@@ -9,13 +9,15 @@
 }
 
 #nav_menu {
-	background:white;
+	background: white;
   	float: left;
   	width: 100%;
     height: 50px;
 }
 
 #Principal {	
+	
+	background: white;
   	float: left;
   	width: 100%;
     height: 65%;
@@ -23,7 +25,7 @@
 }
 #Principal #principal {
     
-  
+	background: white;  
   float: left;
   width: 90%;
   height: 100%;
